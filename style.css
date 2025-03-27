@@ -1,0 +1,57 @@
+body{
+    justify-content: center;
+    align-items: center;
+    background-image: url(782657.png);
+}
+
+.coc{
+    color: white;
+  margin-right: 800px;
+  padding: 5px;
+}
+
+.home{
+    justify-content: center;
+    align-items: end;
+    display: flex;
+    color: white;
+    gap: 50px;
+  margin-left: 850px;
+  margin-top: -50px;
+}
+
+.icons{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+padding: 50px;
+margin-top: 300px;
+}
+
+.treading{
+    color: white;
+    margin-top: -335px;
+    padding: 100px;
+}
+.lorem{
+    width: 295px;
+}
+
+.change{
+    background-color: rgb(29, 138, 29);
+    color: white;
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+   
+}
+
+.gameplay{
+   background-image: url(782657.png);
+   color: white;
+   padding: 15px;
+ border: 1px solid white;
+ border-radius: 10px;
+
+}
